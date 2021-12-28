@@ -107,17 +107,12 @@ p{
 }
 
 
-@media (max-width:320px){
+@media (max-width:380px){
 
-    body{
-        background-color: red;
-    }
-
+   
     .main-videos{
         margin-left: 2%;
         margin-right: 2%;
-
-
     }
 
     p{
