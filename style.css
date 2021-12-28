@@ -105,3 +105,12 @@ p{
     font-size: 30px;
     font-weight: bold;
 }
+
+
+@media (max-width:320){
+    p{
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+}
