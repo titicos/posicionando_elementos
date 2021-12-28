@@ -94,8 +94,8 @@ h1{
 }
 
 p{
-    padding-left: 30%;
-    padding-right: 30%;
+    padding-left: 20%;
+    padding-right: 20%;
     text-align: justify;
     padding-bottom: 30px;
     font-family: 'Baloo Bhaijaan 2', cursive;
@@ -107,11 +107,11 @@ p{
 }
 
 
-@media (max-width:320){
+@media (max-width:360px){
     p{
         margin-left: 5%;
         margin-right: 5%;
-        background-color: red;
+
     }
 
 }
